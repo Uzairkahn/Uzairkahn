@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Uzairkahn
-- 👀 I’m interested in front end develpoment and wordpress development
-- 🌱 I’m currently learning full stack developer
+- 👀 I’m interested in develpoment and data analysing
+- 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me through my link
 - 😄 Pronouns: he/his/him
