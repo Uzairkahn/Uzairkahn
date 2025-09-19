@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @Uzairkahn
-- 👀 I’m interested in develpoment and data analysing
-- 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me through my link
-- 😄 Pronouns: he/his/him
-- ⚡ Fun fact: i am intelligent
+**Hi, I’m Uzair Khan ** 
 
-<!---
-Uzairkahn/Uzairkahn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I am a **Computer Science student** at Sukkur IBA University.  
+💻 My interests lie in **Web Development, API Integration, Data Analysis, and Software Engineering**.  
+📚 I enjoy working on projects that combine **practical development** with **problem-solving skills**.  
+
+Previously, I have:  
+- Built WordPress websites (including a responsive gym website)  
+- Developed a **Library Management System in Java**  
+- Created a **Currency Prediction Model in Python**  
+- Designed a **Bank Database in MySQL**  
+
+I’m constantly exploring new technologies and working on projects to sharpen my skills and prepare for professional opportunities.  
