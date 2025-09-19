@@ -1,4 +1,4 @@
-**Hi, I’m Uzair Khan ** 
+Hi, I’m Uzair Khan 
 
 🎓 I am a **Computer Science student** at Sukkur IBA University.  
 💻 My interests lie in **Web Development, API Integration, Data Analysis, and Software Engineering**.  
