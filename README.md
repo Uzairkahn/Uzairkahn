@@ -20,10 +20,10 @@ A production-grade marketplace showcasing enterprise-level architecture.
 ---
 ### **2. VendorHub – Vendor Quotation Management System** 📊💼⭐⭐⭐
 A production-ready full-stack procurement platform designed to streamline vendor management, quotation handling, and quotation comparison through an intuitive dashboard.
-🌐 **Live Demo**: https://vendorhub-quotation-management-syst.vercel.app
-📂 **Repository**: https://github.com/Uzairkahn/vendorhub-quotation-management-system
-🛠️ **Tech**: React.js, Node.js, Express.js, MongoDB Atlas, JavaScript, Axios, REST APIs, Vercel, Render
-✨ **Key Features**: Vendor & quotation CRUD operations, dashboard analytics, quotation comparison, search & filtering, form validation, responsive UI, MongoDB integration, RESTful API architecture, full-stack deployment
+- 🌐 **Live Demo**: https://vendorhub-quotation-management-syst.vercel.app
+- 📂 **Repository**: https://github.com/Uzairkahn/vendorhub-quotation-management-system
+- 🛠️ **Tech**: React.js, Node.js, Express.js, MongoDB Atlas, JavaScript, Axios, REST APIs, Vercel, Render
+- ✨ **Key Features**: Vendor & quotation CRUD operations, dashboard analytics, quotation comparison, search & filtering, form validation, responsive UI, MongoDB integration, RESTful API architecture, full-stack deployment
 
 → *Best for Full-Stack Developer roles — demonstrates end-to-end MERN development, REST API integration, database design, frontend-backend communication, and cloud deployment on Vercel & Render.*
 
