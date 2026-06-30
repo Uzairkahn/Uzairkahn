@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | Mobile App Developer | AI/ML Engineer | Building scalable web applications**
 
-I'm a Computer Science student at **Sukkur IBA University** graduating in 2026. Currently working as a **Full-Stack Developer** *intern **at TEyzixCore** (Remote) and **Mobile App Developer**  *intern  **at Websera Solutionpk**, with hands-on experience building production-ready applications. I specialize in **MERN stack**, **Mobile Development**, and **AI/ML integration**.
+I'm a Computer Science student at **Sukkur IBA University** graduating in 2026. Currently working as a **Full-Stack Developer intern at TEyzixCore** (Remote) and **Mobile App Developer intern at Websera Solutionpk**, with hands-on experience building production-ready applications. I specialize in **MERN stack**, **Mobile Development**, and **AI/ML integration**.
 
 ---
 
@@ -15,7 +15,7 @@ A production-grade marketplace showcasing enterprise-level architecture.
 - **Tech**: Node.js, Express.js, MongoDB, React, REST APIs
 - **Key Features**: Multi-vendor support, role-based access control, payment integration, real-time notifications, scalable architecture
 
-→ *Best for Full-Stack Developer roles — demonstrates backend scalability, API design, and production deployment*
+→ *Best for Full-Stack Developer roles demonstrates backend scalability, API design, and production deployment*
 
 ---
 ### **2. VendorHub – Vendor Quotation Management System** 📊💼⭐⭐⭐
@@ -25,7 +25,7 @@ A production-ready full-stack procurement platform designed to streamline vendor
 - 🛠️ **Tech**: React.js, Node.js, Express.js, MongoDB Atlas, JavaScript, Axios, REST APIs, Vercel, Render
 - ✨ **Key Features**: Vendor & quotation CRUD operations, dashboard analytics, quotation comparison, search & filtering, form validation, responsive UI, MongoDB integration, RESTful API architecture, full-stack deployment
 
-→ *Best for Full-Stack Developer roles — demonstrates end-to-end MERN development, REST API integration, database design, frontend-backend communication, and cloud deployment on Vercel & Render.*
+→ *Best for Full-Stack Developer roles demonstrates end-to-end MERN development, REST API integration, database design, frontend-backend communication, and cloud deployment on Vercel & Render.*
 
 ### **3. AI-Powered Inclusive Learning Assistant** 🤖🎓⭐⭐
 An AI-driven platform making education accessible for all learners (Final Year Project).
@@ -34,7 +34,7 @@ An AI-driven platform making education accessible for all learners (Final Year P
 - **Key Features**: Multilingual support, accessibility features (WCAG 2.1), AI tutoring, real-time translation, speech recognition
 - **Impact**: Demonstrates AI integration, accessibility thinking, and full-stack implementation
 
-→ *Stand-out differentiator — shows AI/ML capability + social impact + accessibility expertise + FYP credibility*
+→ *Stand-out differentiator shows AI/ML capability + social impact + accessibility expertise + FYP credibility*
 
 ---
 
@@ -81,7 +81,7 @@ Intelligent recommendation engine with advanced filtering and algorithmic matchi
 - *Skills*: Full-Stack Development, System Design, Problem-Solving
 
 ### **Mobile App Developer** — Websera Solutionpk
-*Current*
+*Remote Internship*
 - Developing native Android applications
 - Firebase integration and real-time features
 - Mobile UI/UX implementation
