@@ -18,8 +18,16 @@ A production-grade marketplace showcasing enterprise-level architecture.
 → *Best for Full-Stack Developer roles — demonstrates backend scalability, API design, and production deployment*
 
 ---
+### **2. VendorHub – Vendor Quotation Management System** 📊💼⭐⭐⭐
+A production-ready full-stack procurement platform designed to streamline vendor management, quotation handling, and quotation comparison through an intuitive dashboard.
+🌐 **Live Demo**: https://vendorhub-quotation-management-syst.vercel.app
+📂 **Repository**: https://github.com/Uzairkahn/vendorhub-quotation-management-system
+🛠️ **Tech**: React.js, Node.js, Express.js, MongoDB Atlas, JavaScript, Axios, REST APIs, Vercel, Render
+✨ **Key Features**: Vendor & quotation CRUD operations, dashboard analytics, quotation comparison, search & filtering, form validation, responsive UI, MongoDB integration, RESTful API architecture, full-stack deployment
 
-### **2. AI-Powered Inclusive Learning Assistant** 🤖🎓⭐⭐
+→ *Best for Full-Stack Developer roles — demonstrates end-to-end MERN development, REST API integration, database design, frontend-backend communication, and cloud deployment on Vercel & Render.*
+
+### **3. AI-Powered Inclusive Learning Assistant** 🤖🎓⭐⭐
 An AI-driven platform making education accessible for all learners (Final Year Project).
 - **Repository**: [github.com/Uzairkahn/inclusive-learning-assistant](https://github.com/Uzairkahn/inclusive-learning-assistant)
 - **Tech**: Python, Flask, React, Speech-to-Text (Whisper), Text-to-Speech, HuggingFace, NLP
@@ -30,7 +38,7 @@ An AI-driven platform making education accessible for all learners (Final Year P
 
 ---
 
-### **3. Gym Management Platform** 💪⭐
+### **4. Gym Management Platform** 💪⭐
 Complete gym operations management system with user authentication and real-time features.
 - **Repository**: [github.com/Uzairkahn/Gym-frontend-project](https://github.com/Uzairkahn/Gym-frontend-project)
 - **Tech**: Node.js, Express.js, MySQL, HTML, CSS, JavaScript, React
@@ -41,7 +49,7 @@ Complete gym operations management system with user authentication and real-time
 
 ---
 
-### **4. Salon Booking App** 💇‍♀️⭐
+### **5. Salon Booking App** 💇‍♀️⭐
 Native Android application for salon appointment management (Mobile Development).
 - **Repository**: [github.com/Uzairkahn/salon-booking-app](https://github.com/Uzairkahn/salon-booking-app)
 - **Tech**: Kotlin, Jetpack Compose, Firebase Authentication, Cloud Firestore
@@ -52,7 +60,7 @@ Native Android application for salon appointment management (Mobile Development)
 
 ---
 
-### **5. Lipshade Recommendation System** 💄⭐
+### **6. Lipshade Recommendation System** 💄⭐
 Intelligent recommendation engine with advanced filtering and algorithmic matching.
 - **Repository**: [github.com/Uzairkahn/Lipshade_Recommendation_system](https://github.com/Uzairkahn/Lipshade_Recommendation_system)
 - **Tech**: JavaScript, React, Rule-based ML algorithms
