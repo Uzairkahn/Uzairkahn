@@ -2,7 +2,7 @@
 
 **Full-Stack Developer | Mobile App Developer | AI/ML Engineer | Building scalable web applications**
 
-I'm a Computer Science student at **Sukkur IBA University** graduating in 2026. Currently working as a **Full-Stack Developer at TEyzixCore** (Remote) and **Mobile App Developer at Websera Solutionpk**, with hands-on experience building production-ready applications. I specialize in **MERN stack**, **Mobile Development**, and **AI/ML integration**.
+I'm a Computer Science student at **Sukkur IBA University** graduating in 2026. Currently working as a **Full-Stack Developer** *intern **at TEyzixCore** (Remote) and **Mobile App Developer**  *intern  **at Websera Solutionpk**, with hands-on experience building production-ready applications. I specialize in **MERN stack**, **Mobile Development**, and **AI/ML integration**.
 
 ---
 
